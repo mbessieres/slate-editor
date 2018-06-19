@@ -1,6 +1,6 @@
 {
   "name": "@slate-editor/utils",
-  "version": "5.0.0",
+  "version": "5.1.0-alpha.d3a3eaf1",
   "description": "Utils for slate-editor.",
   "main": "dist/index.js",
   "repository": "https://github.com/nossas/slate-editor",

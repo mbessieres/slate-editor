@@ -1,6 +1,6 @@
 {
   "name": "@slate-editor/italic-plugin",
-  "version": "5.0.0",
+  "version": "5.1.0-alpha.d3a3eaf1",
   "description": "SlateJS italic mark plugin.",
   "main": "dist/index.js",
   "repository": "https://github.com/nossas/slate-editor",
@@ -28,8 +28,8 @@
     "prepare": "babel src --out-dir dist --copy-files"
   },
   "dependencies": {
-    "@slate-editor/components": "^5.0.0",
-    "@slate-editor/utils": "^5.0.0",
+    "@slate-editor/components": "^5.1.0-alpha.d3a3eaf1",
+    "@slate-editor/utils": "^5.1.0-alpha.d3a3eaf1",
     "classnames": "^2.2.5",
     "react": "^16.2.0",
     "react-fontawesome": "^1.6.1"
